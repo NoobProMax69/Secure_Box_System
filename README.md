@@ -1,6 +1,6 @@
 # Secure_Box_System
 
-  I chose to make a “Secure box” system made of 3 sensors: an RFID module, an IR
+  A “Secure box” system made of 3 sensors: an RFID module, an IR
 receiver and a flame sensor.
 
   This system is supposed to emulate a secure box that can be accessed by the user in
